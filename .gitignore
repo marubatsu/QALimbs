@@ -1,0 +1,23 @@
+﻿# Build results
+[Oo]bj/
+[Bb]in/
+
+# NuGet
+.nuget/
+packages/
+
+# ReSharper is a .NET coding add-in
+_ReSharper.*
+
+# DNX
+artifacts/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+*DS_Store
+*.sln.ide
+
+# Visual Studio 2015 cache/options directory
+.vs
