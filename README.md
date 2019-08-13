@@ -8,10 +8,10 @@ Proyecto para realizar pruebas al sitio Limbs.earth.
 * ReportUnit
 
 ## Configuración
-Modificar archivo **App.config** para:
-* Cambiar browser.
-* Cambiar usuarios.
-* Ingresar una ruta y nombre de archivo de imagen para ser subida en un pedido.
+Modificar los siguientes datos en archivo **App.config**:.
+* Ruta con imagen para ser subida en el pedido: **FilePathImage**.
+* Cambiar navegador (por ahora solo Firefox y Chrome): **Browser**.
+* Usar otros usuarios, de ser necesario.
 
 ## Ejecución de las pruebas
 
